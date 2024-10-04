@@ -1,0 +1,34 @@
+:root{
+    --gold: #e6be8a;
+    --gold_hover: #e7b069;
+}
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.h-font{
+    font-family: 'Merienda', cursive;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+/* Firefox */
+input[type=number] {
+    -moz-default-appearance: textfield;
+}
+.custom-bg{
+    background-color: var(--gold);
+    border: 1px solid var(--gold);
+}
+.custom-bg:hover{
+    background-color: var(--gold_hover);
+    border: 1px solid var(--gold_hover);
+}
+.custom-alert{
+    position: fixed;
+    top: 80px;
+    right: 25px;
+    z-index:1111;
+}
