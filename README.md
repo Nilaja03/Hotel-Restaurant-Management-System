@@ -1,4 +1,4 @@
-### !!Scroll Down to see the results!!
+### !! Scroll down to see the results !!
 # Hotel-Restaurant-Management-System
 La Villa Royale is a sophisticated hotel and restaurant database management system tailored specifically for luxury hotels and restaurants, designed to optimize operations and elevate guest experiences. It encompasses a range of essential features, including reservation management, guest profiling, inventory tracking, billing and payment processing, staff management, and managing rating and reviews. Through its intuitive interface and seamless integration with hotel and restaurant operations, La Villa Royale empowers businesses to streamline processes, personalize services, and make data-driven decisions to enhance profitability and maintain high service standards.
 
